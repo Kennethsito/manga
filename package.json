@@ -1,5 +1,5 @@
 {
-  "name": "terror",
+  "name": "manga",
   "version": "1.0.0",
   "description": "Holapapu Servidor de node para mis tareas de",
   "main": "index.js",
@@ -8,7 +8,7 @@
     
 
   },
-  "author": "Eduardo Regalado",
+  "author": "Kenneth Parra",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
